@@ -30,4 +30,22 @@ Uniform Resource Locatorの略、インターネット上のホームページ�
 
 <img width="228" alt="スクリーンショット 2024-02-27 16 00 36" src="https://github.com/g1003394/gokai/assets/153340889/808fe79c-8534-4150-b3a1-e5d14473ed3e">
 
+営業部のIsono（磯野）チームのページを表示するとなるとURIは以下のようになる.
 
+https://Anime.co.jp/sales/{group_id}
+
+パスパラメータは特定のもの（画面など）を表示したいときに必要になります。
+
+// IsonoチームのSalesTableidは「１」
+https://Anime.co.jp/sales/1
+
+もし、メンバー一覧を画面表示にしたい場合は、下記のURIとする。
+
+https://Anime.co.jp/sales/1/members
+
+クエリパラメータは特定のもの（画面など）に条件を加える場合に必要になります。
+
+例：上記のメンバー一覧から特定の人を検索したい場合（今回はID検索と想定）
+今回はUsersTableのID:3（ワカメ）を検索（条件の追加）します。
+
+https://Anime.co.jp/sales/1/members?id=3
