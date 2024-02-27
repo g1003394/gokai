@@ -13,4 +13,4 @@ Uniform Resource Locatorの略、インターネット上のホームページ�
 ## クエリ文字列とパス変数の違いとは
 見え方の違い
 
-<img width="708" alt="スクリーンショット 2024-02-27 15 46 41" src="https://github.com/g1003394/gokai/assets/153340889/6080a303-bf91-48d3-9301-c3165a8c5d58">
+<img width="689" alt="スクリーンショット 2024-02-27 15 53 47" src="https://github.com/g1003394/gokai/assets/153340889/a52b9c01-2f8a-4abb-9a6e-027bdbfa052c">
