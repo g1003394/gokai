@@ -52,3 +52,25 @@ https://Anime.co.jp/sales/1/members
 https://Anime.co.jp/sales/1/members?id=3
 
 参照：https://zenn.dev/eri_agri/articles/859a3362db8386
+
+## httpメソッドとは
+1.GET
+
+リソース情報を取得する
+
+2.POST
+
+新しいリソース情報を送り込む
+
+3.PUT
+
+リソース情報を新しい情報で置き換える
+
+4.PATCH
+
+リソース情報の一部を新しい情報で書き換える
+
+5.DELETE
+
+リソース情報を削除する
+
