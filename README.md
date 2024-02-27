@@ -25,3 +25,7 @@ Uniform Resource Locatorの略、インターネット上のホームページ�
 例:株式会社アニメ（ドメイン：Anime.co.jp）に営業部（Sales）があり、チームが以下のように分かれているとする
 
 <img width="146" alt="スクリーンショット 2024-02-27 15 58 55" src="https://github.com/g1003394/gokai/assets/153340889/8288f6f0-4791-4f58-818a-0e99953d26a0">
+
+チームの中のユーザーは以下の通り
+
+
