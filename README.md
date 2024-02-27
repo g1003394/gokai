@@ -37,6 +37,7 @@ https://Anime.co.jp/sales/{group_id}
 パスパラメータは特定のもの（画面など）を表示したいときに必要になります。
 
 // IsonoチームのSalesTableidは「１」
+
 https://Anime.co.jp/sales/1
 
 もし、メンバー一覧を画面表示にしたい場合は、下記のURIとする。
