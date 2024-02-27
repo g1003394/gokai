@@ -28,4 +28,6 @@ Uniform Resource Locatorの略、インターネット上のホームページ�
 
 チームの中のユーザーは以下の通り
 
+<img width="228" alt="スクリーンショット 2024-02-27 16 00 36" src="https://github.com/g1003394/gokai/assets/153340889/808fe79c-8534-4150-b3a1-e5d14473ed3e">
+
 
