@@ -50,3 +50,5 @@ https://Anime.co.jp/sales/1/members
 今回はUsersTableのID:3（ワカメ）を検索（条件の追加）します。
 
 https://Anime.co.jp/sales/1/members?id=3
+
+参照：https://zenn.dev/eri_agri/articles/859a3362db8386
