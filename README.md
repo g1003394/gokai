@@ -148,7 +148,7 @@ JavaScript Object Notationの略で、JavaScriptというプログラム言語�
 
 ## Jsonを使用したデータ表現
 
-``` JSON
+``` jsonl
 {
  {“name” : “葛之葉雨彦” , “blood type” : “O” ,“age” : 30 }
  
