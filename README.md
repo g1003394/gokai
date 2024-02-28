@@ -49,28 +49,28 @@ https://Anime.co.jp/sales/1/members
 例：上記のメンバー一覧から特定の人を検索したい場合（今回はID検索と想定）
 今回はUsersTableのID:3（ワカメ）を検索（条件の追加）します。
 
-https://Anime.co.jp/sales/1/members?id=3
+https://Anime.co.jp/sales/1/members/3
 
 参照：https://zenn.dev/eri_agri/articles/859a3362db8386
 
 ## httpメソッドとは
-1.GET
+1. GET
 
 リソース情報を取得する
 
-2.POST
+2. POST
 
 新しいリソース情報を送り込む
 
-3.PUT
+3. PUT
 
 リソース情報を新しい情報で置き換える
 
-4.PATCH
+4. PATCH
 
 リソース情報の一部を新しい情報で書き換える
 
-5.DELETE
+5. DELETE
 
 リソース情報を削除する
 
@@ -86,27 +86,27 @@ Accept,Accept-*,If-* などのリクエストヘッダーは、条件付きリ�
 
 HTTPにおいてWebサーバからのレスポンスの意味を表現する３桁の数字からなるコード。
 
--200 OK
+### 200 OK
 
 リクエストは成功し、レスポンスとともに要求に応じた情報が返される。
 
--201 Created
+### 201 Created
 
 リクエストは完了し、新たに作成されたリソースのURIが返される。
 
 例：PUTメソッドでリソースを作成するリクエストを行ったとき、そのリクエストが完了した場合に返される。
 
--400 Bad Request
+### 400 Bad Request
 
 リクエストが不正である。定義されていないメソッドを使うなど、クライアントのリクエストがおかしい場合に返される。
 
--404 Not Found
+### 404 Not Found
 
 未検出。リソース・ページが見つからなかった。
 
 単にアクセス権がない場合などにも使用される。また、単に要求に答えられない理由を誤魔化すためにも使われる。
 
--500 Internal Sever Error
+### 500 Internal Sever Error
 
 サーバ内部エラー。サーバ内部にエラーが発生した場合に返される。
 
