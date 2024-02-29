@@ -151,9 +151,7 @@ JavaScript Object Notationの略で、JavaScriptというプログラム言語�
 ``` json
 “アイドル名”:[
  { “name” : “葛之葉雨彦” , “blood_type” : “O” ,“age” : 30 },
-“person2” :
  { “name” : “北村想楽” , “blood_type” : “B” ,“age” : 19 },
-“person3” : 
  { “name” : “古論クリス” , “blood_type” : “AB” ,“age” : 29 }
 ]
 ```
