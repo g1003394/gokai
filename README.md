@@ -149,11 +149,11 @@ JavaScript Object Notationの略で、JavaScriptというプログラム言語�
 ## Jsonを使用したデータ表現
 
 ``` json
-[
+{
  {“name” : “葛之葉雨彦” , “blood type” : “O型” ,“age” : 30 },
  
  {“name” : “北村想楽” , “blood type” : “B型” ,“age” : 19 },
  
  {“name” : “古論クリス” , “blood type” : “AB型” ,“age” : 29 }
-]
+}
 ```
