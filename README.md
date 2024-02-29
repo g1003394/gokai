@@ -150,7 +150,7 @@ JavaScript Object Notationの略で、JavaScriptというプログラム言語�
 
 ``` json
  {
-“name” : “葛之葉雨彦” ,
+“name” : “amehiko” ,
 “blood_type” : “O” ,
 “age” : 30 
 }
