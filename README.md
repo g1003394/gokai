@@ -155,6 +155,5 @@ JavaScript Object Notationの略で、JavaScriptというプログラム言語�
  {“name” : “北村想楽” , “blood type” : “B型” ,“age” : 19 },
  
  {“name” : “古論クリス” , “blood type” : “AB型” ,“age” : 29 }
- 
 ]
 ```
